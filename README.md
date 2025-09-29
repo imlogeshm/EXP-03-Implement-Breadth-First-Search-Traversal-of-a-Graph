@@ -1,8 +1,7 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
-NAME:LOGESH M 
-REGISTER NUMBER:212224210012
-
+<h3>Name:LOGESH M </h3>
+<h3>Register Number:212224210012     </h3>
 AIM: 
 Theory: 
 To Implement Breadth First Search Traversal of a Graph using Python 3. 
